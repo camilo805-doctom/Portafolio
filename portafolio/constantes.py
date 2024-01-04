@@ -1,0 +1,15 @@
+VERSION="1.0.0"
+CAMILO_URL="https://wa.me/qr/46IJQWNJAJHWB1"
+PORTAFOLIO_URL="https://github.com/camilo805-doctom/Portafolio"
+
+GITHUB_URL="https://github.com/camilo805-doctom"
+LINKEDLN_URL="https://www.linkedin.com/in/camilo-mu%C3%B1oz-0114742a0/"
+INSTAGRAM_URL="https://www.instagram.com/camilomunozb_/"
+
+TRADUCTOR_URL="https://github.com/camilo805-doctom/Traductor_Basico"
+DICCIONARIO_URL="https://github.com/camilo805-doctom/Diccionario"
+CONVERTIDOR_URL="https://github.com/camilo805-doctom/convertidor_c_f/tree/main"
+CALCULADORA_URL="https://github.com/camilo805-doctom/Calculadora-B-sica"
+GENERADOR_URL="https://github.com/camilo805-doctom/generador_correo"
+GENERADORN_URL="https://github.com/camilo805-doctom/Generador_de_nombres"
+PAGINAWED_URL="https://github.com/camilo805-doctom/Pagina_wed"
